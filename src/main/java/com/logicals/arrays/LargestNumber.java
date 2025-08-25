@@ -1,4 +1,4 @@
-package com.logicals.arrays.numbers;
+package com.logicals.arrays;
 
 public class LargestNumber {
     /* To find the largest number in an array */
@@ -6,7 +6,7 @@ public class LargestNumber {
         int[] ar = {23, 456, 454, 4300,453, 235, -1};
         int max = new LargestNumber().findLargest(ar);
         int min = new LargestNumber().findSmallest(ar);
-        System.out.println(max + " " + min);
+        System.out.println("Maximum number is : "+ max + "\nMinimum number is : " + min+ "\nDifference between min and max is : " + (max - min));
     }
 
     private int findSmallest(int[] ar) {

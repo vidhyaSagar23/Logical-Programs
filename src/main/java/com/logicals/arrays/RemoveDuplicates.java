@@ -1,4 +1,4 @@
-package com.logicals.arrays.numbers;
+package com.logicals.arrays;
 
 public class RemoveDuplicates {
     /* Remove duplicate number present in the array and store it in differnt array */

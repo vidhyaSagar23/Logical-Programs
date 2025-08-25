@@ -1,4 +1,4 @@
-package com.logicals.arrays.numbers;
+package com.logicals.arrays;
 
 public class ReverseArray {
     /* Reverse an array without creating another array*/

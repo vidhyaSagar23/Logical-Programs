@@ -1,4 +1,4 @@
-package com.logicals.arrays.numbers;
+package com.logicals.arrays;
 
 public class Palindromes {
     /* Find and return true if the number is palindrome else return false*/

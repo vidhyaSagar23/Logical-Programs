@@ -1,4 +1,4 @@
-package com.logicals.arrays.numbers;
+package com.logicals.arrays;
 
 public class PrimeNumbers {
     public static void main(String[] args) {
